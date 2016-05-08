@@ -16,5 +16,5 @@
 You can see the demo of the project <a href="http://justlaravel.com/demos/highcharts-in-laravel/">here</a>
 
 ## Reference Post
-<a href="http://justlaravel.com/visualization-data-highcharts-laravel">http://justlaravel.com/custom-authentication-in-laravel/
+<a href="http://justlaravel.com/visualization-data-highcharts-laravel">http://justlaravel.com/visualization-data-highcharts-laravel/
 </a>
