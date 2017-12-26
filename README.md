@@ -13,7 +13,7 @@
 </ul>
 
 ## Working Demo
-You can see the demo of the project <a href="http://justlaravel.com/demos/highcharts-in-laravel/">here</a>
+You can see the demo of the project <a href="http://demos.justlaravel.com/highcharts-in-laravel/">here</a>
 
 ## Reference Post
 <a href="http://justlaravel.com/visualization-data-highcharts-laravel">http://justlaravel.com/visualization-data-highcharts-laravel/
